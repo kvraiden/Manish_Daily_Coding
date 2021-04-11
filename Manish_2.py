@@ -1,4 +1,4 @@
-# K_Flynn
+# K_Flynn 20210404
 #Time_Complexity O[n^2]
 #As of i am learning I have used naive approach and not used inbuilt function ofcourse there are oneliners too!!
 def make_arr():
